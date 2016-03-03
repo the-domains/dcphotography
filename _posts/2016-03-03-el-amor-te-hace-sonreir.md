@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Jenn es Feliz al lado de Leo
-datePublished: '2016-03-03T11:41:34.554Z'
-dateModified: '2016-03-03T11:41:30.110Z'
+datePublished: '2016-03-03T11:49:51.929Z'
+dateModified: '2016-03-03T11:49:37.807Z'
 author: []
 title: El Amor te hace Sonreir
 sourcePath: _posts/2016-03-03-el-amor-te-hace-sonreir.md
