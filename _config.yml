@@ -1,6 +1,6 @@
 name: dcphotography
 favicon: null
-layout_spectrum: 0.91813
+layout_spectrum: 0.92787
 typography_spectrum: 0.82386
 title: Bodas-Eventos
 cta:
@@ -22,7 +22,7 @@ color:
     - '#696564'
     - '#0a0a0a'
     - '#3d3532'
-  brandStrength: 0.6875
+  brandStrength: 0.75
   lightness: 0.5625
   saturation: 0.20728182164020836
   rhythmicContrast: 0.5623715699184686
