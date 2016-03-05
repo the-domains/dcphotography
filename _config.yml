@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: DCPhotographyandFilms
+favicon: null
+layout_spectrum: 0.56903
+typography_spectrum: 0.82386
 collections:
   - index:
       path: /
@@ -18,24 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.56903
-title: Bodas-Eventos
+title: DCPhotographyandFilms
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.2072818216402084
-  brandStrength: 0.75
-  rhythmicContrast: 0.5623715699184686
   brandColors:
     - '#cfd0d2'
     - '#a5aab0'
     - '#696564'
     - '#0a0a0a'
     - '#3d3532'
+  brandStrength: 0.75
   lightness: 0.5625
+  saturation: 0.2072818216402084
+  rhythmicContrast: 0.5623715699184686
 purpose: []
-favicon: null
-name: dcphotography
-typography_spectrum: 0.82386
