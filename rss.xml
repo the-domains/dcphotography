@@ -4,8 +4,15 @@
         <description><![CDATA[DCPhotographyandFilms]]></description>
         <link>https://thegrid.ai/dcphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 02:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2016 03:07:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dcphotography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Home]]></title>
+            <description><![CDATA[<article><h1>Home</h1><p>DCPhotographyandFilms</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bb59e7980a80e5eaa5ae02d081ed89fab41c001.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dcphotography/home/index.html</link>
+            <guid isPermaLink="false">356bec36-e302-47f3-8495-02a6ad4d911b</guid>
+            <pubDate>Sat, 05 Mar 2016 03:06:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20f121bf-984e-4356-933f-723bbeadb358.jpg">]]></description>
